@@ -5,3 +5,11 @@ http://www.oreilly.co.jp/books/9784873116600/
 
 Underscore.jsのサンプル
 http://qiita.com/takeharu/items/7d4ead780710c627172e
+
+## notes
+
+Underscore.jsを使っているので。
+
+```
+$ npm install
+```
