@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shigemk2/functional_javascript/issues"
   },
-  "homepage": "https://github.com/shigemk2/functional_javascript"
+  "homepage": "https://github.com/shigemk2/functional_javascript",
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  }
 }
